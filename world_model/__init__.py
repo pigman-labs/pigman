@@ -1,0 +1,2 @@
+"""World-model composition layer."""
+

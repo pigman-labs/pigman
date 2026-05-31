@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+members = [
+  "runtime_rs",
+  "jepa_kernels_rs",
+  "memory_store_rs",
+  "tool_sandbox_rs",
+]
+
+[workspace.package]
+edition = "2021"
+license = "Apache-2.0"
+version = "0.1.0"
+

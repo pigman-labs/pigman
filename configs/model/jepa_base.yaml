@@ -1,0 +1,6 @@
+latent_dim: 4096
+entity_slots: 256
+moe_experts: 16
+top_k_experts: 2
+use_state_space_layers: true
+

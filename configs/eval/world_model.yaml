@@ -1,0 +1,6 @@
+rollout_horizon: 8
+metrics:
+  - latent_prediction_error
+  - event_prediction_accuracy
+  - uncertainty_calibration
+

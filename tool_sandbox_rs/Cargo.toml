@@ -1,0 +1,12 @@
+[package]
+name = "tool-sandbox"
+edition.workspace = true
+license.workspace = true
+version.workspace = true
+
+[lib]
+path = "lib.rs"
+
+[[bin]]
+name = "tool-sandbox"
+path = "main.rs"

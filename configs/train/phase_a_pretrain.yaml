@@ -1,0 +1,7 @@
+seed: 7
+precision: bf16
+batch_size: 64
+warmup_steps: 1000
+total_steps: 100000
+mask_ratio: 0.4
+

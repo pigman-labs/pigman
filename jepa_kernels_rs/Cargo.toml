@@ -1,0 +1,9 @@
+[package]
+name = "jepa-kernels"
+edition.workspace = true
+license.workspace = true
+version.workspace = true
+
+[lib]
+path = "lib.rs"
+

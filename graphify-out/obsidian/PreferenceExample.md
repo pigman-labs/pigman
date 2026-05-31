@@ -1,0 +1,19 @@
+---
+source_file: "alignment/preferences.py"
+type: "code"
+community: "alignment_dpo_py, alignment_preferences_py, build_dataset_main"
+location: "L7"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/alignment_dpo_py,_alignment_preferences_py,_build_dataset_main
+---
+
+# PreferenceExample
+
+## Connections
+- [[.synthetic_from_scores()]] - `calls` [EXTRACTED]
+- [[DPOObjective]] - `uses` [INFERRED]
+- [[preferences.py]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/alignment_dpo_py,_alignment_preferences_py,_build_dataset_main
